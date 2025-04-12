@@ -63,5 +63,7 @@ key=YOUR_JWT_SECRET_KEY
 3. Create a `.env` file and add your variables
 4. Start the server with `npm run dev`
 
+# URL:- https://financial-time-machine-rer6.onrender.com
+
 ## Author
 [Ritesh Kumar Jena]
